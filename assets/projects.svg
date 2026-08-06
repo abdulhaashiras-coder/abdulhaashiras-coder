@@ -6,7 +6,7 @@
     .icon { fill: #38BDF8; }
   </style>
   
-  <a href="https://github.com/abdulhaashiras-coder/Themis---Alt" target="_blank">
+  <a href="https://github.com/abdulhaashiras-coder/Themis" target="_blank">
     <rect x="0" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
     <text x="20" y="32" class="title">🔐 Themis</text>
     <text x="20" y="60" class="desc">An alternative build of the</text>
