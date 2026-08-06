@@ -8,7 +8,7 @@ const GENERATOR_VERSION = "agent-console-v1";
 
 const paletteDefinitions = {
   signal: {
-    dark: { backgroundStart: "#020617", backgroundEnd: "#11152F", panel: "#07111F", primary: "#E5E7EB", muted: "#64748B", cyan: "#22D3EE", blue: "#38BDF8", violet: "#7C3AED", green: "#10B981", red: "#F87171", scanBlend: "screen" },
+    dark: { backgroundStart: "#051005", backgroundEnd: "#020802", panel: "#061306", primary: "#E5E7EB", muted: "#64748B", cyan: "#39FF14", blue: "#4ADE80", violet: "#15803D", green: "#10B981", red: "#F87171", scanBlend: "screen" },
     light: { backgroundStart: "#F8FBFF", backgroundEnd: "#F5F3FF", panel: "#FFFFFF", primary: "#172554", muted: "#64748B", cyan: "#0891B2", blue: "#2563EB", violet: "#6D28D9", green: "#047857", red: "#DC2626", scanBlend: "multiply" }
   },
   ocean: {
