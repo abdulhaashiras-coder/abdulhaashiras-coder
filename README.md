@@ -23,8 +23,8 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulhaashiras-coder&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;border_color=22D3EE" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulhaashiras-coder&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;border_color=22D3EE" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=abdulhaashiras-coder&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;border_color=22D3EE" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulhaashiras-coder&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;border_color=22D3EE" />
 </p>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaashiras-coder&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;border_color=22D3EE" />
