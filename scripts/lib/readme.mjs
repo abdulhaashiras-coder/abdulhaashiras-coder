@@ -84,8 +84,8 @@ ${renderLinks(config.links)}
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=${config.profile.username}&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${config.profile.username}&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=${config.profile.username}&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=${config.profile.username}&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;hide_border=true" />
 </p>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=${config.profile.username}&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;hide_border=true" />
@@ -96,10 +96,10 @@ ${renderLinks(config.links)}
 </div>
 <p align="center">
   <a href="https://github.com/${config.profile.username}/Themis---Alt">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&amp;repo=Themis---Alt&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=${config.profile.username}&amp;repo=Themis---Alt&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
   </a>
   <a href="https://github.com/${config.profile.username}/krypts">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&amp;repo=krypts&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=${config.profile.username}&amp;repo=krypts&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
   </a>
 </p>
 
