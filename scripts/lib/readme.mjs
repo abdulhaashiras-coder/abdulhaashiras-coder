@@ -81,30 +81,30 @@ ${renderLinks(config.links)}
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=GitHub%20Analytics&fontSize=24&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=${config.profile.username}&show_icons=true&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${config.profile.username}&layout=compact&title_color=22D3EE&text_color=E5E7EB&bg_color=07111F&hide_border=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=${config.profile.username}&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${config.profile.username}&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;hide_border=true" />
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=${config.profile.username}&bg_color=07111F&color=22D3EE&line=38BDF8&point=E5E7EB&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=${config.profile.username}&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;hide_border=true" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=Featured%20Projects&fontSize=24&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
   <a href="https://github.com/${config.profile.username}/Themis---Alt">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&repo=Themis---Alt&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&amp;repo=Themis---Alt&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
   </a>
   <a href="https://github.com/${config.profile.username}/krypts">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&repo=krypts&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&amp;repo=krypts&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=Tech%20Stack&fontSize=24&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
   <code>Python</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>TypeScript</code> <code>Next.js</code>
