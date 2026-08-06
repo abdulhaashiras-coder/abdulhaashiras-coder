@@ -106,25 +106,25 @@ ${renderLinks(config.links)}
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&amp;logo=python&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/PyTorch-07111F?style=for-the-badge&amp;logo=pytorch&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/TensorFlow-07111F?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-07111F?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/TypeScript-07111F?style=for-the-badge&amp;logo=typescript&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Next.js-07111F?style=for-the-badge&amp;logo=next.js&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Python-07111F?style=for-the-badge&amp;logo=python&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-PyTorch-07111F?style=for-the-badge&amp;logo=pytorch&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-TensorFlow-07111F?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-07111F?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-TypeScript-07111F?style=for-the-badge&amp;logo=typescript&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Next.js-07111F?style=for-the-badge&amp;logo=next.js&amp;logoColor=22D3EE" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=AI%20%26%20Tools&amp;fontSize=24&amp;fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=AI%20Tools&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Claude-07111F?style=for-the-badge&amp;logo=anthropic&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Stitch-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Manus-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Lovable-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Git-07111F?style=for-the-badge&amp;logo=git&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Antigravity-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Claude-07111F?style=for-the-badge&amp;logo=anthropic&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Stitch-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Manus-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Lovable-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-Git-07111F?style=for-the-badge&amp;logo=git&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/-GitHub-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" />
 </p>
 `;
 
