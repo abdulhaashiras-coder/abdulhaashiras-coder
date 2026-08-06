@@ -1,67 +1,67 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Abdul Haashir",
+    "username": "abdulhaashiras-coder",
+    "headline": "Full-Stack Web Developer & AI Enthusiast",
+    "affiliation": "Independent Developer",
+    "location": "Global",
+    "status": "Building modern web applications",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I love building sleek, modern, and interactive applications.",
+      "My work focuses on creating seamless user experiences using robust backend services."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full-Stack Dev",
+    "direction": "Scalable web systems",
+    "themes": "Frontend / Backend / AI",
+    "narrative": "I'm interested in combining modern frontend frameworks with powerful backend services to create applications that are both fast and intelligent."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Frontend Web",
+      "description": "Building stunning, interactive UIs using React, Next.js, and TailwindCSS."
     },
     {
       "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "description": "Integrating AI capabilities into web products."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Backend Systems",
+      "description": "Creating robust APIs using Python and PostgreSQL."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Themis---Alt",
+      "url": "https://github.com/abdulhaashiras-coder/Themis---Alt",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "focus": "Full-Stack",
+      "summary": "An alternative build of the Themis platform.",
       "heroLabel": "Primary build"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Krypts DRM",
+      "url": "https://github.com/abdulhaashiras-coder/krypts",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Frontend & Security",
+      "summary": "A modern web application featuring advanced WebGL graphics and DRM capabilities.",
+      "heroLabel": "Active project"
     }
   ],
   "techStack": [
-    "TypeScript",
+    "React",
     "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "TailwindCSS",
+    "TypeScript",
+    "Python"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "abdulhaashiras-coder",
+      "url": "https://github.com/abdulhaashiras-coder",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +73,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Simplicity is the soul of efficiency."
 }
