@@ -5,16 +5,16 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-1a8451a2-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-1a8451a2-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-1a8451a2-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-1a8451a2-light.svg">
-    <img src="./assets/hero/agent-console-1a8451a2-dark.svg" alt="Abdul Haashir - Aspiring AI Engineer " width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-2559afee-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-2559afee-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-2559afee-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-2559afee-light.svg">
+    <img src="./assets/hero/agent-console-2559afee-dark.svg" alt="Abdul Haashir - Aspiring AI Engineer " width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/abdulhaashiras-coder"><img alt="GitHub" src="assets/badges/social-github.svg" height="36"></a>
+  <a href="https://github.com/h4ash-abdul"><img alt="GitHub" src="assets/badges/social-github.svg" height="36"></a>
   <a href="https://www.linkedin.com/in/haash-abdul/"><img alt="LinkedIn" src="assets/badges/social-linkedin.svg" height="36"></a>
   <a href="https://leetcode.com/u/h4ash_abdul/"><img alt="LeetCode" src="assets/badges/social-leetcode.svg" height="36"></a>
 </p>
@@ -23,11 +23,11 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img width="419" src="https://github-stats-extended.vercel.app/api?username=abdulhaashiras-coder&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;border_color=22D3EE" />
-  <img width="375" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulhaashiras-coder&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;border_color=22D3EE" />
+  <img width="419" src="https://github-stats-extended.vercel.app/api?username=h4ash-abdul&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;border_color=22D3EE" />
+  <img width="375" src="https://github-stats-extended.vercel.app/api/top-langs/?username=h4ash-abdul&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;border_color=22D3EE" />
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaashiras-coder&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;border_color=22D3EE" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=h4ash-abdul&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;border_color=22D3EE" />
 </p>
 
 <div align="center">

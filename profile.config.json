@@ -2,7 +2,7 @@
   "$schema": "./profile.schema.json",
   "profile": {
     "name": "Abdul Haashir",
-    "username": "abdulhaashiras-coder",
+    "username": "h4ash-abdul",
     "headline": "Aspiring AI Engineer ",
     "affiliation": "Independent Researcher & Developer",
     "location": "Global",
@@ -35,7 +35,7 @@
   "projects": [
     {
       "name": "Themis---Alt",
-      "url": "https://github.com/abdulhaashiras-coder/Themis---Alt",
+      "url": "https://github.com/h4ash-abdul/Themis---Alt",
       "homepage": "",
       "focus": "Full-Stack AI",
       "summary": "An alternative build of the Themis platform with advanced capabilities.",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Krypts DRM",
-      "url": "https://github.com/abdulhaashiras-coder/krypts",
+      "url": "https://github.com/h4ash-abdul/krypts",
       "homepage": "",
       "focus": "Security & Architecture",
       "summary": "A modern web application featuring advanced WebGL graphics and DRM.",
@@ -61,8 +61,8 @@
   "links": [
     {
       "label": "GitHub",
-      "value": "abdulhaashiras-coder",
-      "url": "https://github.com/abdulhaashiras-coder",
+      "value": "h4ash-abdul",
+      "url": "https://github.com/h4ash-abdul",
       "logo": "github",
       "color": "07111F"
     },

@@ -18,7 +18,7 @@ const badges = [
   { name: 'git', url: 'https://img.shields.io/badge/-Git-07111F?style=for-the-badge&logo=git&logoColor=22D3EE' },
   { name: 'github', url: 'https://img.shields.io/badge/-GitHub-07111F?style=for-the-badge&logo=github&logoColor=22D3EE' },
 
-  { name: 'social-github', url: 'https://img.shields.io/badge/GitHub-abdulhaashiras--coder-07111F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=07111F' },
+  { name: 'social-github', url: 'https://img.shields.io/badge/GitHub-h4ash--abdul-07111F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=07111F' },
   { name: 'social-linkedin', url: 'https://img.shields.io/badge/LinkedIn-haash--abdul-07111F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=07111F' },
   { name: 'social-leetcode', url: 'https://img.shields.io/badge/LeetCode-h4ash__abdul-07111F?style=for-the-badge&logo=leetcode&logoColor=22D3EE&labelColor=07111F' },
 ];

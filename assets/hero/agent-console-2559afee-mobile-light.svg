@@ -45,7 +45,7 @@
 <rect width="720" height="1080" rx="22" fill="url(#scanlines)"/>
 <rect x="20" y="20" width="680" height="42" rx="14" fill="#FFFFFF" fill-opacity="0.84"/>
 <circle cx="41" cy="41" r="5" fill="#EF4444"/><circle cx="59" cy="41" r="5" fill="#F59E0B"/><circle cx="77" cy="41" r="5" fill="#047857"/>
-<text x="360" y="46" text-anchor="middle" class="terminal-label">abdulhaashiras@profile ~ % ./profile --live</text>
+<text x="360" y="46" text-anchor="middle" class="terminal-label">h4ash-abdul@profile ~ % ./profile --live</text>
 
 <rect x="48" y="94" width="624" height="350" rx="14" fill="#FFFFFF" fill-opacity="0.38" stroke="url(#border)" stroke-opacity="0.42"/>
 <rect x="48" y="470" width="624" height="526" rx="14" fill="#FFFFFF" fill-opacity="0.42" stroke="url(#border)" stroke-opacity="0.42"/>
@@ -115,7 +115,7 @@
 <tspan x="180" y="422.70" xml:space="preserve">         =@#######%%@@@#@%%%######################%%%%%%%%%%%@:#@######%#%%%%@+::   </tspan>
 <tspan x="180" y="428.40" xml:space="preserve">         -@########%@@@@@%%#######################%%%%%%%%%%#%+@%########%%%@@::.   </tspan>
 <tspan x="180" y="434.10" xml:space="preserve">         :%%########%@%%@@########################%%%%%%%%%%%%%%#########%%%@=:.    </tspan></text></g>
-<g clip-path="url(#system-line-0)"><text x="72" y="520" class="system-head"><tspan fill="#6D28D9">@abdulhaashiras-coder</tspan><tspan fill="#64748B"> ------------------------------------------</tspan></text></g>
+<g clip-path="url(#system-line-0)"><text x="72" y="520" class="system-head"><tspan fill="#6D28D9">@h4ash-abdul</tspan><tspan fill="#64748B"> ------------------------------------------</tspan></text></g>
 <g clip-path="url(#system-line-1)"><text x="72" y="544" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Subject</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#172554">Abdul Haashir</tspan></text></g>
 <g clip-path="url(#system-line-2)"><text x="72" y="568" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Role</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#172554">Aspiring AI Engineer </tspan></text></g>
 <g clip-path="url(#system-line-3)"><text x="72" y="592" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Affiliation</tspan><tspan fill="#64748B">: ... </tspan><tspan fill="#172554">Independent Researcher &amp; Developer</tspan></text></g>
@@ -129,7 +129,7 @@
 <g clip-path="url(#system-line-13)"><text x="72" y="832" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Themis---Alt</tspan><tspan fill="#64748B">: ... </tspan><tspan fill="#172554">Primary build</tspan></text></g>
 <g clip-path="url(#system-line-14)"><text x="72" y="856" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">Krypts DRM</tspan><tspan fill="#64748B">: .... </tspan><tspan fill="#172554">Active project</tspan></text></g>
 <g clip-path="url(#system-line-16)"><text x="72" y="904" class="system-section" fill="#047857">- GRID.LINKS -----------------------------------</text></g>
-<g clip-path="url(#system-line-17)"><text x="72" y="928" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">GitHub</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#172554">abdulhaashiras-coder</tspan></text></g>
+<g clip-path="url(#system-line-17)"><text x="72" y="928" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">GitHub</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#172554">h4ash-abdul</tspan></text></g>
 <g clip-path="url(#system-line-18)"><text x="72" y="952" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#0891B2">LinkedIn</tspan><tspan fill="#64748B">: ...... </tspan><tspan fill="#172554">haash-abdul</tspan></text></g>
 <g clip-path="url(#system-line-19)"><text x="72" y="976" class="system-footer" fill="#2563EB">signal.locked &gt; PROFILE / BUILD / SHARE</text></g>
 <rect x="74" y="961" width="9" height="17" fill="#0891B2" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.03;0.06;0.32;0.5;0.68;0.84;1" dur="1.4s" begin="3.3s" repeatCount="indefinite"/></rect>
