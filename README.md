@@ -41,23 +41,23 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-07111F?style=for-the-badge&amp;logo=python&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-PyTorch-07111F?style=for-the-badge&amp;logo=pytorch&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-TensorFlow-07111F?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-07111F?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-TypeScript-07111F?style=for-the-badge&amp;logo=typescript&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-Next.js-07111F?style=for-the-badge&amp;logo=next.js&amp;logoColor=22D3EE" />
+  <img src="assets/badges/python.svg" height="36" />
+  <img src="assets/badges/pytorch.svg" height="36" />
+  <img src="assets/badges/tensorflow.svg" height="36" />
+  <img src="assets/badges/scikit-learn.svg" height="36" />
+  <img src="assets/badges/typescript.svg" height="36" />
+  <img src="assets/badges/nextjs.svg" height="36" />
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=AI%20Tools&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Antigravity-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-Claude-07111F?style=for-the-badge&amp;logo=anthropic&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-Stitch-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-Manus-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-Lovable-07111F?style=for-the-badge&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-Git-07111F?style=for-the-badge&amp;logo=git&amp;logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/-GitHub-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" />
+  <img src="assets/badges/antigravity.svg" height="36" />
+  <img src="assets/badges/claude.svg" height="36" />
+  <img src="assets/badges/stitch.svg" height="36" />
+  <img src="assets/badges/manus.svg" height="36" />
+  <img src="assets/badges/lovable.svg" height="36" />
+  <img src="assets/badges/git.svg" height="36" />
+  <img src="assets/badges/github.svg" height="36" />
 </p>
