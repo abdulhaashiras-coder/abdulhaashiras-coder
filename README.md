@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abdulhaashiras-coder"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-abdulhaashiras--coder-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"></a>
-  <a href="https://www.linkedin.com/in/haash-abdul/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-haash--abdul-07111F?style=for-the-badge&logo=linkedin&logoColor=22D3EE"></a>
-  <a href="https://leetcode.com/u/h4ash_abdul/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-h4ash__abdul-07111F?style=for-the-badge&logo=leetcode&logoColor=22D3EE"></a>
+  <a href="https://github.com/abdulhaashiras-coder"><img alt="GitHub" src="assets/badges/social-github.svg" height="36"></a>
+  <a href="https://www.linkedin.com/in/haash-abdul/"><img alt="LinkedIn" src="assets/badges/social-linkedin.svg" height="36"></a>
+  <a href="https://leetcode.com/u/h4ash_abdul/"><img alt="LeetCode" src="assets/badges/social-leetcode.svg" height="36"></a>
 </p>
 
 <div align="center">
