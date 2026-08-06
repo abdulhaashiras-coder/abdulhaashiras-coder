@@ -15,34 +15,36 @@
   <a href="https://leetcode.com/u/h4ash_abdul/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-h4ash__abdul-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
-## About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=GitHub%20Analytics&fontSize=24&fontAlignY=40" />
+</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulhaashiras-coder&show_icons=true&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaashiras-coder&layout=compact&title_color=22D3EE&text_color=E5E7EB&bg_color=07111F&hide_border=true&theme=transparent" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaashiras-coder&bg_color=07111F&color=22D3EE&line=38BDF8&point=E5E7EB&area=true&hide_border=true" />
+</p>
 
-I am deeply passionate about Artificial Intelligence and machine learning.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=Featured%20Projects&fontSize=24&fontAlignY=40" />
+</div>
+<p align="center">
+  <a href="https://github.com/abdulhaashiras-coder/Themis---Alt">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulhaashiras-coder&repo=Themis---Alt&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/abdulhaashiras-coder/krypts">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulhaashiras-coder&repo=krypts&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+  </a>
+</p>
 
-My work focuses on understanding complex data, building intelligent systems, and bridging the gap between cutting-edge AI research and practical applications.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=Tech%20Stack&fontSize=24&fontAlignY=40" />
+</div>
+<p align="center">
+  <code>Python</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>TypeScript</code> <code>Next.js</code>
+</p>
 
-## Current Focus
-
-| Area | What I am exploring |
-| --- | --- |
-| **Machine Learning** | Training and optimizing models for predictive analytics and intelligent decision making. |
-| **AI Agents** | Building autonomous workflows and systems capable of reasoning and tool use. |
-| **Full-Stack AI Apps** | Deploying machine learning models into robust, interactive web applications. |
-
-## Featured Work
-
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [**Themis---Alt**](https://github.com/abdulhaashiras-coder/Themis---Alt) | Full-Stack AI | An alternative build of the Themis platform with advanced capabilities. |
-| [**Krypts DRM**](https://github.com/abdulhaashiras-coder/krypts) | Security & Architecture | A modern web application featuring advanced WebGL graphics and DRM. |
-
-## Research Direction
-
-I'm interested in creating autonomous systems that can learn, adapt, and solve real-world problems using advanced machine learning techniques.
-
-## Tech Stack
-
-`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `TypeScript` · `Next.js`
 
 ## Recent Activity
 

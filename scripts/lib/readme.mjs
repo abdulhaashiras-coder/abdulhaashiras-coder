@@ -80,25 +80,36 @@ export async function generateProfileReadme({ config, manifest, readmePath }) {
 ${renderLinks(config.links)}
 </p>
 
-## About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=GitHub%20Analytics&fontSize=24&fontAlignY=40" />
+</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=${config.profile.username}&show_icons=true&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${config.profile.username}&layout=compact&title_color=22D3EE&text_color=E5E7EB&bg_color=07111F&hide_border=true&theme=transparent" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=${config.profile.username}&bg_color=07111F&color=22D3EE&line=38BDF8&point=E5E7EB&area=true&hide_border=true" />
+</p>
 
-${about}
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=Featured%20Projects&fontSize=24&fontAlignY=40" />
+</div>
+<p align="center">
+  <a href="https://github.com/${config.profile.username}/Themis---Alt">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&repo=Themis---Alt&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/${config.profile.username}/krypts">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=${config.profile.username}&repo=krypts&title_color=22D3EE&text_color=E5E7EB&icon_color=38BDF8&bg_color=07111F&hide_border=true&theme=transparent" />
+  </a>
+</p>
 
-## Current Focus
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=22D3EE&height=50&section=header&text=Tech%20Stack&fontSize=24&fontAlignY=40" />
+</div>
+<p align="center">
+  <code>Python</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>TypeScript</code> <code>Next.js</code>
+</p>
 
-${renderFocus(config.focus)}
-
-## Featured Work
-
-${renderProjects(config.projects)}
-
-## Research Direction
-
-${config.research.narrative}
-
-## Tech Stack
-
-${techStack}
 ${activitySection}
 ---
 
