@@ -14,7 +14,7 @@ function badgeSegment(value) {
 
 function renderLinks(links) {
   return links.map((link) => {
-    const logo = link.logo ? `&logo=${encodeURIComponent(link.logo)}&logoColor=white` : "";
+    const logo = link.logo ? `&logo=${encodeURIComponent(link.logo)}&logoColor=22D3EE` : "";
     const image = `https://img.shields.io/badge/${badgeSegment(link.label)}-${badgeSegment(link.value)}-${link.color}?style=for-the-badge${logo}`;
     return `  <a href="${link.url}"><img alt="${link.label}" src="${image}"></a>`;
   }).join("\n");
