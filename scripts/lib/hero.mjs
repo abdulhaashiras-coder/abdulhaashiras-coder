@@ -33,7 +33,7 @@ const layouts = {
     infoTitle: { x: 524, y: 62 },
     portrait: { columns: 96, rows: 64, x: 78, y: 90, lineHeight: 6.65, fontSize: 6.5 },
     portraitClip: { x: 24, y: 82, width: 470, height: 438, radius: 12 },
-    system: { x: 528, y: 82, width: 620, lineHeight: 21.5, fontSize: 14 },
+    system: { x: 528, y: 82, width: 620, lineHeight: 25, fontSize: 16 },
     footerY: 585
   },
   mobile: {
@@ -47,7 +47,7 @@ const layouts = {
     infoTitle: { x: 66, y: 492 },
     portrait: { columns: 84, rows: 54, x: 180, y: 132, lineHeight: 5.7, fontSize: 6.6 },
     portraitClip: { x: 58, y: 122, width: 604, height: 312, radius: 12 },
-    system: { x: 72, y: 520, width: 574, lineHeight: 21, fontSize: 13 },
+    system: { x: 72, y: 520, width: 574, lineHeight: 24, fontSize: 15 },
     footerY: 1045
   }
 };
@@ -244,8 +244,9 @@ function createHeroSvg(config, colors, size, portrait) {
     .terminal-label { font-family: 'Courier New', Consolas, monospace; font-size: ${isDesktop ? 12 : 11}px; letter-spacing: 0.5px; fill: ${colors.muted}; }
     .live-label { font-family: 'Courier New', Consolas, monospace; font-size: 10px; letter-spacing: 1px; fill: ${colors.red}; }
     .system-head { font-family: 'Courier New', Consolas, monospace; font-size: ${layout.system.fontSize + 2}px; font-weight: 700; }
-    .system-section, .system-footer, .system-row { font-family: 'Courier New', Consolas, monospace; font-size: ${layout.system.fontSize}px; }
-    .system-section, .system-key { font-weight: 700; }
+    .system-section, .system-footer, .system-row { font-family: 'Courier New', Consolas, monospace; font-size: ${layout.system.fontSize}px; letter-spacing: 0.3px; text-shadow: 0 0 2px rgba(255,255,255,0.2); }
+    .system-section, .system-key { font-weight: 700; text-shadow: 0 0 3px ${colors.cyan}40; }
+    .system-row { font-weight: 600; }
     text, tspan { white-space: pre; }
   </style>
 </defs>
