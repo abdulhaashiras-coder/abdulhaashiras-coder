@@ -94,36 +94,20 @@ ${renderLinks(config.links)}
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
-<table bordercolor="#22D3EE">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🔐 Themis---Alt</h3>
-      <p align="left">An alternative build of the Themis platform with advanced capabilities. An interactive cyber-awareness and threat-defense platform.</p>
-      <p align="left"><b>Stack:</b> Python · PyTorch · TypeScript · Next.js</p>
-      <p align="left">
-        <a href="https://github.com/${config.profile.username}/Themis---Alt">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚖️ Krypts</h3>
-      <p align="left">A modern web application featuring advanced WebGL graphics and DRM capabilities. Placed 1st at MindSpark'26.</p>
-      <p align="left"><b>Stack:</b> React · Next.js · TypeScript · Python</p>
-      <p align="left">
-        <a href="https://github.com/${config.profile.username}/krypts">
-          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/projects.svg" alt="Featured Projects" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <code>Python</code> <code>PyTorch</code> <code>TensorFlow</code> <code>Scikit-learn</code> <code>TypeScript</code> <code>Next.js</code>
+  <img src="https://img.shields.io/badge/Python-07111F?style=for-the-badge&amp;logo=python&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/PyTorch-07111F?style=for-the-badge&amp;logo=pytorch&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/TensorFlow-07111F?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-07111F?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/TypeScript-07111F?style=for-the-badge&amp;logo=typescript&amp;logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Next.js-07111F?style=for-the-badge&amp;logo=next.js&amp;logoColor=22D3EE" />
 </p>
 
 ${activitySection}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180">
+  <style>
+    .title { font-family: 'Courier New', Consolas, monospace; font-size: 18px; font-weight: 700; fill: #22D3EE; }
+    .desc { font-family: 'Courier New', Consolas, monospace; font-size: 13px; fill: #E5E7EB; }
+    .stack { font-family: 'Courier New', Consolas, monospace; font-size: 12px; font-weight: 700; fill: #38BDF8; }
+    .icon { fill: #38BDF8; }
+  </style>
+  
+  <a href="https://github.com/abdulhaashiras-coder/Themis---Alt" target="_blank">
+    <rect x="0" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
+    <text x="20" y="32" class="title">🔐 Themis---Alt</text>
+    <text x="20" y="60" class="desc">An alternative build of the</text>
+    <text x="20" y="80" class="desc">Themis platform with advanced</text>
+    <text x="20" y="100" class="desc">capabilities. An interactive</text>
+    <text x="20" y="120" class="desc">cyber-awareness platform.</text>
+    <text x="20" y="145" class="stack">Python / PyTorch / Next.js</text>
+  </a>
+
+  <a href="https://github.com/abdulhaashiras-coder/krypts" target="_blank">
+    <rect x="400" y="0" width="380" height="160" fill="#07111F" stroke="#22D3EE" stroke-width="1.5" rx="6" />
+    <text x="420" y="32" class="title">⚖️ Krypts</text>
+    <text x="420" y="60" class="desc">A modern web application</text>
+    <text x="420" y="80" class="desc">featuring advanced WebGL</text>
+    <text x="420" y="100" class="desc">graphics and DRM capabilities.</text>
+    <text x="420" y="120" class="desc">Placed 1st at MindSpark'26.</text>
+    <text x="420" y="145" class="stack">React / TypeScript / Python</text>
+  </a>
+</svg>
