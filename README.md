@@ -19,24 +19,40 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulhaashiras-coder&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulhaashiras-coder&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulhaashiras-coder&amp;show_icons=true&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;border_color=22D3EE" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdulhaashiras-coder&amp;layout=compact&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;bg_color=07111F&amp;border_color=22D3EE" />
 </p>
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaashiras-coder&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulhaashiras-coder&amp;bg_color=07111F&amp;color=22D3EE&amp;line=38BDF8&amp;point=E5E7EB&amp;area=true&amp;border_color=22D3EE" />
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontAlignY=40" />
 </div>
-<p align="center">
-  <a href="https://github.com/abdulhaashiras-coder/Themis---Alt">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abdulhaashiras-coder&amp;repo=Themis---Alt&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
-  </a>
-  <a href="https://github.com/abdulhaashiras-coder/krypts">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=abdulhaashiras-coder&amp;repo=krypts&amp;title_color=22D3EE&amp;text_color=E5E7EB&amp;icon_color=38BDF8&amp;bg_color=07111F&amp;hide_border=true" />
-  </a>
-</p>
+<table bordercolor="#22D3EE">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🔐 Themis---Alt</h3>
+      <p align="left">An alternative build of the Themis platform with advanced capabilities. An interactive cyber-awareness and threat-defense platform.</p>
+      <p align="left"><b>Stack:</b> Python · PyTorch · TypeScript · Next.js</p>
+      <p align="left">
+        <a href="https://github.com/abdulhaashiras-coder/Themis---Alt">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚖️ Krypts</h3>
+      <p align="left">A modern web application featuring advanced WebGL graphics and DRM capabilities. Placed 1st at MindSpark'26.</p>
+      <p align="left"><b>Stack:</b> React · Next.js · TypeScript · Python</p>
+      <p align="left">
+        <a href="https://github.com/abdulhaashiras-coder/krypts">
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-07111F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&amp;fontColor=22D3EE&amp;height=50&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=24&amp;fontAlignY=40" />
