@@ -3,33 +3,33 @@
   "profile": {
     "name": "Abdul Haashir",
     "username": "abdulhaashiras-coder",
-    "headline": "Full-Stack Web Developer & AI Enthusiast",
-    "affiliation": "Independent Developer",
+    "headline": "Aspiring AI Engineer",
+    "affiliation": "Independent Researcher & Developer",
     "location": "Global",
-    "status": "Building modern web applications",
+    "status": "Learning / Building / Experimenting",
     "about": [
-      "I love building sleek, modern, and interactive applications.",
-      "My work focuses on creating seamless user experiences using robust backend services."
+      "I am deeply passionate about Artificial Intelligence and machine learning.",
+      "My work focuses on understanding complex data, building intelligent systems, and bridging the gap between cutting-edge AI research and practical applications."
     ]
   },
   "research": {
-    "primary": "Full-Stack Dev",
-    "direction": "Scalable web systems",
-    "themes": "Frontend / Backend / AI",
-    "narrative": "I'm interested in combining modern frontend frameworks with powerful backend services to create applications that are both fast and intelligent."
+    "primary": "Artificial Intelligence",
+    "direction": "Intelligent Agents & Machine Learning",
+    "themes": "Deep Learning / Generative AI / Automation",
+    "narrative": "I'm interested in creating autonomous systems that can learn, adapt, and solve real-world problems using advanced machine learning techniques."
   },
   "focus": [
     {
-      "name": "Frontend Web",
-      "description": "Building stunning, interactive UIs using React, Next.js, and TailwindCSS."
+      "name": "Machine Learning",
+      "description": "Training and optimizing models for predictive analytics and intelligent decision making."
     },
     {
-      "name": "Applied AI",
-      "description": "Integrating AI capabilities into web products."
+      "name": "AI Agents",
+      "description": "Building autonomous workflows and systems capable of reasoning and tool use."
     },
     {
-      "name": "Backend Systems",
-      "description": "Creating robust APIs using Python and PostgreSQL."
+      "name": "Full-Stack AI Apps",
+      "description": "Deploying machine learning models into robust, interactive web applications."
     }
   ],
   "projects": [
@@ -37,25 +37,26 @@
       "name": "Themis---Alt",
       "url": "https://github.com/abdulhaashiras-coder/Themis---Alt",
       "homepage": "",
-      "focus": "Full-Stack",
-      "summary": "An alternative build of the Themis platform.",
+      "focus": "Full-Stack AI",
+      "summary": "An alternative build of the Themis platform with advanced capabilities.",
       "heroLabel": "Primary build"
     },
     {
       "name": "Krypts DRM",
       "url": "https://github.com/abdulhaashiras-coder/krypts",
       "homepage": "",
-      "focus": "Frontend & Security",
-      "summary": "A modern web application featuring advanced WebGL graphics and DRM capabilities.",
+      "focus": "Security & Architecture",
+      "summary": "A modern web application featuring advanced WebGL graphics and DRM.",
       "heroLabel": "Active project"
     }
   ],
   "techStack": [
-    "React",
-    "Next.js",
-    "TailwindCSS",
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Scikit-learn",
     "TypeScript",
-    "Python"
+    "Next.js"
   ],
   "links": [
     {
@@ -64,6 +65,20 @@
       "url": "https://github.com/abdulhaashiras-coder",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "haash-abdul",
+      "url": "https://www.linkedin.com/in/haash-abdul/",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "LeetCode",
+      "value": "h4ash_abdul",
+      "url": "https://leetcode.com/u/h4ash_abdul/",
+      "logo": "leetcode",
+      "color": "FFA116"
     }
   ],
   "activity": {
