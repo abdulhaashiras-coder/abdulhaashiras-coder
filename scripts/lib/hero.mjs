@@ -94,7 +94,7 @@ async function validatePortrait(sourceBuffer, sourcePath) {
   }
 }
 
-async function samplePortrait(sourceBuffer, columns, rows) {
+export async function samplePortrait(sourceBuffer, columns, rows) {
   const trimOptions = { background: { r: 0, g: 0, b: 0, alpha: 0 }, threshold: 8 };
   const resizeOptions = { fit: "fill", kernel: sharp.kernel.lanczos3 };
   const luminancePipeline = sharp(sourceBuffer)
@@ -126,7 +126,7 @@ async function samplePortrait(sourceBuffer, columns, rows) {
   return { pixels, width: info.width, height: info.height };
 }
 
-function createAsciiTspans({ pixels, width, height }, placement) {
+export function createAsciiTspans({ pixels, width, height }, placement) {
   const characters = " .:-=+*#%@";
   const rows = [];
 
@@ -276,6 +276,10 @@ async function cleanOldAssets(outputDirectory, currentFiles) {
   await Promise.all(entries
     .filter((entry) => generatedPattern.test(entry) && !currentFiles.includes(entry))
     .map((entry) => unlink(resolve(outputDirectory, entry))));
+}
+
+export async function getPalette(name) {
+  return paletteDefinitions[name];
 }
 
 export async function generateHeroAssets({ config, sourcePath, outputDirectory }) {
